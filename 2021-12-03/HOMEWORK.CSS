@@ -1,0 +1,22 @@
+table{
+	width: 90%;
+	margin: 5%;
+}
+td{
+	border: 1px solid white;
+	border-collapse: collapse;
+	border-radius: 4px;
+	padding: 8px;
+	background-color: peachpuff;
+	text-align: center;
+}
+th{
+	
+	border: 1px solid white;
+	background-color:darkcyan;
+	border-collapse: collapse;
+	padding: 8px;
+	border-radius: 4px;
+	background-color: darkcyan;
+	color: white;
+}
