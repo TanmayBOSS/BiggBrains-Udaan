@@ -1,0 +1,12 @@
+table{
+	width: 90%;
+	margin: 5%;
+	border-collapse: collapse;
+}
+tr{
+	border-collapse: collapse;
+	padding: 16px;
+	background-color: lemonchiffon;
+	border-radius: px;
+	text-align: center;
+}

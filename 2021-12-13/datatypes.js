@@ -21,11 +21,6 @@ console.log(typeof(laptop))
 console.log(laptop)
 console.log(laptop. brand)
 
-
-
-
-console.log(probalityOfPitayi)
-
 // print array of subjects
 console.log(subjects)
 // access elements via index
