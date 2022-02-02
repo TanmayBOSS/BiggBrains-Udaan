@@ -1,8 +1,4 @@
-In HTML, what does the <aside> element define?
-
-17 of 40
-
-
+In HTML, what does the aside element define?
 
 css quiz
 How do you make each word in a text start with a capital letter?
@@ -13,3 +9,9 @@ How do you select an element with id 'demo'?
 How do you group selectors?
 What is the default value of the position property?
 What is the correct CSS syntax for making all the <p> elements bold?
+
+
+	JAVASCRIPT
+How does a WHILE loop start?
+How do you round the number 7.25, to the nearest integer?
+How do you find the number with the highest value of x and y?

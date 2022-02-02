@@ -10,6 +10,7 @@ function addCar(){
     	"image":img_url
     } 
     var tableRef     = document.getElementById('mehraSahab').getElementsByTagName('tbody')[0]
+    
     var newRow       = tableRef.insertRow(tableRef.rows.length);
     newRow.innerHTML = createRows(tableRef.rows.length, car);
 }
@@ -22,6 +23,7 @@ function createRows(index, item){
 		<td>${item.price}</td>
 		<td>${item.color}</td>
 		<td><img src="${item.image}" width="150px" height="100px"></img></td>
+	</tr>
 	`
 }
 

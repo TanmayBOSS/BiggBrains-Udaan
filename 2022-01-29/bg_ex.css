@@ -1,0 +1,28 @@
+body{
+	padding: 32px;
+	background: #ffffff url("https://th.bing.com/th/id/OIP.6_D2uhD36Ypc9yBu_DP76AHaEl?w=276&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7");
+}
+
+.ex1{
+	background-color: blue;
+}
+
+.ex2{
+	background-color: blue;
+	opacity: 0.3;
+}
+
+.ex3{
+	background-color: rgba(25, 32, 103, 0.5);
+}
+
+.ex4{
+	background-image: url("https://th.bing.com/th/id/OIP.6_D2uhD36Ypc9yBu_DP76AHaEl?w=276&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7https://th.bing.com/th/id/OIP.6_D2uhD36Ypc9yBu_DP76AHaEl?w=276&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7");
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.ex5{
+	background-image: url("https://th.bing.com/th/id/OIP.6_D2uhD36Ypc9yBu_DP76AHaEl?w=276&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7");
+	background-repeat: repeat-x;
+}
